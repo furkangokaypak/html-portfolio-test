@@ -1,0 +1,57 @@
+.profile-img {
+    height: 100px;
+    border-radius: 50%;
+}
+
+
+
+.sacramento-regular {
+    font-family: "Sacramento", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+  }
+
+.feature-img-1 {
+    height: 300px;
+    width: 200px;
+    float: left;
+}
+
+.body {
+    background-color: rgb(248, 249, 250);
+}
+
+.poetsen-one-regular {
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+  
+.playfair-display {
+    font-family: "Raleway", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.star {
+    color: #ffe234;
+}
+  
+.section-title {
+    background-color: #91C8E4;;
+}
+
+
+.img-frame img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+.user-card-bg {
+    background-color: #F6F4EB;
+}
